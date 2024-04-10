@@ -15,7 +15,7 @@ function Navbar() {
     return (
         <nav>
             <ul>
-                <Navitem item="Home" tolink="/" ></Navitem>
+                <Navitem item="Home" tolink="/home" ></Navitem>
                 <Navitem item="Experience" tolink="/experience" ></Navitem>
                 <Navitem item="Education" tolink="/education" ></Navitem>
                 <Navitem item="Projects" tolink="/projects" ></Navitem>
