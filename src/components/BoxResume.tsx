@@ -2,7 +2,7 @@
 function BoxResume() {
     return (
         <div>
-           <iframe src="https://drive.google.com/file/d/16UAeYl1OEYtKw20VrEGf_DYLFWISauyd/preview" width="640" height="480" allow="autoplay"></iframe>
+           <iframe src="https://drive.google.com/file/d/16UAeYl1OEYtKw20VrEGf_DYLFWISauyd/preview" width="950" height="500" allow="autoplay"></iframe>
         </div>
     )
 }
