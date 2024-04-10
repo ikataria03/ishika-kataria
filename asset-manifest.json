@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e92fbe97.css",
-    "main.js": "/static/js/main.5fd8c4e4.js",
-    "static/js/453.f854e1fb.chunk.js": "/static/js/453.f854e1fb.chunk.js",
-    "static/media/portcrop.jpg": "/static/media/portcrop.8f99f02258fdc4c9a33d.jpg",
-    "static/media/Berkeley-CDSS-Logo.png": "/static/media/Berkeley-CDSS-Logo.e2e69726f0089695e53b.png",
-    "index.html": "/index.html",
-    "main.e92fbe97.css.map": "/static/css/main.e92fbe97.css.map",
-    "main.5fd8c4e4.js.map": "/static/js/main.5fd8c4e4.js.map",
-    "453.f854e1fb.chunk.js.map": "/static/js/453.f854e1fb.chunk.js.map"
+    "main.css": "/ishika-kataria/static/css/main.e92fbe97.css",
+    "main.js": "/ishika-kataria/static/js/main.aefa0e52.js",
+    "static/js/453.f854e1fb.chunk.js": "/ishika-kataria/static/js/453.f854e1fb.chunk.js",
+    "static/media/portcrop.jpg": "/ishika-kataria/static/media/portcrop.8f99f02258fdc4c9a33d.jpg",
+    "static/media/Berkeley-CDSS-Logo.png": "/ishika-kataria/static/media/Berkeley-CDSS-Logo.e2e69726f0089695e53b.png",
+    "index.html": "/ishika-kataria/index.html",
+    "main.e92fbe97.css.map": "/ishika-kataria/static/css/main.e92fbe97.css.map",
+    "main.aefa0e52.js.map": "/ishika-kataria/static/js/main.aefa0e52.js.map",
+    "453.f854e1fb.chunk.js.map": "/ishika-kataria/static/js/453.f854e1fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e92fbe97.css",
-    "static/js/main.5fd8c4e4.js"
+    "static/js/main.aefa0e52.js"
   ]
 }
